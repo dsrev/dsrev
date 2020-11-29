@@ -16,7 +16,7 @@ Oh? Are you interested in my profiles? Okay, then.
 
 **Twitter**: https://twitter.com/IlyaSProkopenko
 
-**Telegram**: https://t.me/IlyaSProkopenko
+**Telegram**: https://t.me/dsrev
 
 **Discord**: dsrev#6090
 
