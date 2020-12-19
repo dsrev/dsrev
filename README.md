@@ -14,7 +14,7 @@ Oh? Are you interested in my profiles? Okay, then.
 
 **VK**: https://vk.com/dsrev
 
-**Twitter**: https://twitter.com/dsrev_
+**Twitter**: [https://twitter.com/dsrev_](https://twitter.com/dsrev_)
 
 **Telegram**: https://t.me/dsrev
 
