@@ -26,4 +26,6 @@ Oh? Are you interested in my profiles? Okay, then.
 
 **YouTube**: https://www.youtube.com/channel/UCmtyukqkSLBNMyvF2JBO0JQ
 
+**Mastodon**: @ds@c.im
+
 ###### P.S.: sorry, I just revised The8BitDrummer and I couldn't help but insert one of his phrases at the beginning (not sorry lol)
