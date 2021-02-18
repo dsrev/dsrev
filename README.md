@@ -18,7 +18,7 @@ Oh? Are you interested in my profiles? Okay, then.
 
 **Telegram**: https://t.me/dsrev
 
-**Discord**: dsrev#1698
+**Discord**: m1ch1#1698
 
 **Reddit**: [/u/xorg-xinit](https://reddit.com/u/xorg-xinit/)
 
