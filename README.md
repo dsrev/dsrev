@@ -22,6 +22,6 @@ I'm Ilya "dsrev"/"cyanreg" Prokopenko, usually I like to write electronic music 
 
 **YouTube**: https://www.youtube.com/channel/UCmtyukqkSLBNMyvF2JBO0JQ
 
-**Steam**: https://steamcommunity.com/id/cyanreg
+**Steam**: https://steamcommunity.com/id/cyanreg and https://steamcommunity.com/id/dsrev
 
 **Mastodon**: @ds@c.im
