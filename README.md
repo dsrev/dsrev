@@ -10,11 +10,11 @@ I'm Ilya "dsrev"/"cyanreg" Prokopenko, usually I like to write electronic music 
 
 **VK**: https://vk.com/dsrev
 
-**Twitter**: [https://twitter.com/dsrev_](https://twitter.com/dsrev_) and https://twitter.com/cyanreg
+**Twitter**: https://twitter.com/IlyaSProkopenko and [https://twitter.com/dsrev_](https://twitter.com/dsrev_)
 
 **Telegram**: https://t.me/dsrev
 
-**Discord**: cyanreg#1698
+**Discord**: dsrev#1698
 
 **Reddit**: [/u/xorg-xinit](https://reddit.com/u/xorg-xinit/)
 
