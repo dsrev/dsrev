@@ -10,7 +10,7 @@ I'm Ilya "dsrev"/"cyanreg" Prokopenko, usually I like to write electronic music 
 
 **VK**: https://vk.com/dsrev
 
-**Twitter**: https://twitter.com/IlyaSProkopenko and [https://twitter.com/dsrev_](https://twitter.com/dsrev_)
+**Twitter**: https://twitter.com/ISPSound
 
 **Telegram**: https://t.me/dsrev
 
