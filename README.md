@@ -1,12 +1,17 @@
-![My logo](logo.png)
+![My very own logo!](logo.png)
 
-_Not to be confused with an existing user on GitHub with a nickname cyanreg!!! I found out about existence of that account too late lol_
+- 💬 Ask me about literally anything! Almost...
+- 📫 How to reach me: [Social media](#social-media) (Telegram is preferred)
+- 😄 Pronouns: [he/him/his](https://pronoun.is/he), but any pronouns is ok
+- ⚡ Fun fact: ...
 
-#### Bio
+### Bio
 
-I'm Ilya "dsrev"/"cyanreg" Prokopenko, usually I like to write electronic music (temporarily not doing), but sometimes I write code. I am one of the developers of [OpenVK](https://github.com/openvk/openvk), an open social network engine that imitates the old VKontakte. I'm 18 years old, living in Krasnoyarsk (Russia). Interests: GNU/Linux, anime, music, alternative operating systems (like [ReactOS](https://reactos.org/) and [Haiku](https://www.haiku-os.org/)), gaming (why not).
+I'm Ilya "dsrev" Prokopenko, usually I like to write electronic music (temporarily not doing), but sometimes I write code. I'm 18 years old, living in Krasnoyarsk (Russia). Interests: GNU/Linux, anime, music, gaming (why not).
 
-#### Social media
+### Social media
+
+**E-mail**: dsrev [at] pm [dot] me
 
 **VK**: https://vk.com/dsrev
 
@@ -25,3 +30,12 @@ I'm Ilya "dsrev"/"cyanreg" Prokopenko, usually I like to write electronic music 
 **Steam**: https://steamcommunity.com/id/cyanreg and https://steamcommunity.com/id/dsrev
 
 **Mastodon**: @ds@c.im
+
+<!--
+dsrev: I'll use them later
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on ...
+-->
