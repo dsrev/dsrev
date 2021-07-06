@@ -30,6 +30,8 @@ I'm Ilya "dsrev" Prokopenko, usually I like to write electronic music (temporari
 
 **Mastodon**: @ds@c.im
 
+**Matrix**: https://matrix.to/#/@dsrev:matrix.org
+
 <!--
 dsrev: I'll use them later
 
