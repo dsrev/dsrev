@@ -6,7 +6,7 @@
 
 ### Bio
 
-I'm Ilya "dsrev" Prokopenko, usually I like to write electronic music (temporarily not doing), but sometimes I write code. I'm 18 years old, living in Krasnoyarsk (Russia). Interests: GNU/Linux, anime, music, gaming (why not).
+I'm Ilya "dsrev" Prokopenko, usually I like to write electronic music, but sometimes I write code. I'm 18 years old, living in Krasnoyarsk (Russia). Interests: alternative OS, anime, music, gaming (why not).
 
 ### Social media
 
