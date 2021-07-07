@@ -32,6 +32,8 @@ I'm Ilya "dsrev" Prokopenko, usually I like to write electronic music, but somet
 
 **Matrix**: https://matrix.to/#/@dsrev:matrix.org
 
+**XMPP**: dsrev [at] snopyta [dot] org
+
 <!--
 dsrev: I'll use them later
 
