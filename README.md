@@ -14,7 +14,7 @@ I'm Ilya "dsrev" Prokopenko, usually I like to write electronic music, but somet
 
 **VK**: https://vk.com/dsrev
 
-**Twitter**: https://twitter.com/ISPSound
+**Twitter**: https://twitter.com/IlyaSProkopenko
 
 **Telegram**: https://t.me/dsrev
 
