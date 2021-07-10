@@ -24,7 +24,7 @@ I'm Ilya "dsrev" Prokopenko, usually I like to write electronic music, but somet
 
 **Soundcloud**: https://soundcloud.com/ilyaprokopenko
 
-**YouTube**: https://www.youtube.com/channel/UCmtyukqkSLBNMyvF2JBO0JQ
+**YouTube**: https://www.youtube.com/channel/UCmtyukqkSLBNMyvF2JBO0JQ (main channel), https://www.youtube.com/channel/UCaSKOjHEnpSH2P6pq9wqZcg (NOT my proprietary music) and https://www.youtube.com/channel/UC4BNDHF_TePe_hVIeoO3oZQ (gaming channel)
 
 **Steam**: https://steamcommunity.com/id/cyanreg and https://steamcommunity.com/id/dsrev
 
